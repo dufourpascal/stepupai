@@ -1,4 +1,4 @@
-# stepup.ai
+# Step Up AI [<img src="https://stepup.ai/favicon.png" height="64px"/>](https://stepup.ai)
 Tutorials and example code for https://stepup.ai
 
 ## Data Augmentation
